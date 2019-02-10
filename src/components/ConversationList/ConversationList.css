@@ -1,0 +1,39 @@
+.list-wrapper {
+    margin-top: 100px;
+}
+
+.Message-card:hover {
+    background-color: #F6F7FA;
+}
+
+.Message-card a:hover {
+    text-decoration: none;
+}
+
+.Text-center {
+    text-align: center;
+}
+
+.avatar {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 10px -10px;
+}
+
+.Message-name {
+    padding: 20px;
+    border-bottom: 1px solid #999999;
+    display: flex;
+    color: #999999;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}

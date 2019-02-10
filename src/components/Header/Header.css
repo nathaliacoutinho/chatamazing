@@ -1,0 +1,36 @@
+.Navbar-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.Navigation-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    padding: 16px 24px;
+}
+
+.round-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.Navigation-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Navigation-link {
+    margin-left: 24px;
+    color: #999999;
+}
+
+.Navigation-link:hover {
+    color: #428bca;
+    text-decoration: none;
+}
